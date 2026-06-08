@@ -1,5 +1,5 @@
 {
   "project": "TS_ESP32_OTA_Updater_example",
-  "version": "1.0.0",
-  "bin": "https://raw.githubusercontent.com/TactileStudio/releases/main/TS_ESP32_OTA_Updater_example/TS_ESP32_OTA_Updater_example_v1.0.0.bin"
+  "version": "1.0.1",
+  "bin": "https://raw.githubusercontent.com/TactileStudio/releases/main/TS_ESP32_OTA_Updater_example/TS_ESP32_OTA_Updater_exemple.ino_v1.0.1.bin"
 }
